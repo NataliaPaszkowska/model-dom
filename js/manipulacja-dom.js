@@ -15,3 +15,8 @@ console.log(link);
 link.href = "http://akademia108.pl"; 
 /* nadpisujemy atrybut href w linki */
 
+link.className = "nowa-klasa";
+/* nadpisujemy nazwe klasy w linku */
+
+mainHeader.style.color = "#11aa22"; 
+/* dodajemystyle do naglowksa */
