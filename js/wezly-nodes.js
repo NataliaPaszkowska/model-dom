@@ -5,4 +5,7 @@ var pierwszyDiv = document.getElementById('parFirst');
 console.log(pierwszyDiv.parentNode);
 console.log(pierwszyDiv.parentElement);*/
 
-console.log(pierwszyDiv.childNodes);
+/*console.log(pierwszyDiv.childNodes);*/
+/*console.log(pierwszyDiv.childNodes[3]);
+console.log(pierwszyDiv.children);*/
+
